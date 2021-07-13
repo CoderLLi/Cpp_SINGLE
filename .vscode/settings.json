@@ -4,5 +4,6 @@
         "iostream": "cpp",
         "valarray": "cpp",
         "ostream": "cpp"
-    }
+    },
+    "git.ignoreMissingGitWarning": true
 }
