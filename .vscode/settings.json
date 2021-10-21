@@ -3,7 +3,10 @@
         "vector": "cpp",
         "iostream": "cpp",
         "valarray": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "chrono": "cpp",
+        "random": "cpp",
+        "limits": "cpp"
     },
     "git.ignoreMissingGitWarning": true
 }
