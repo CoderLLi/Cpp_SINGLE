@@ -6,7 +6,10 @@
         "ostream": "cpp",
         "chrono": "cpp",
         "random": "cpp",
-        "limits": "cpp"
+        "limits": "cpp",
+        "sstream": "cpp",
+        "regex": "cpp",
+        "*.tcc": "cpp"
     },
     "git.ignoreMissingGitWarning": true
 }
