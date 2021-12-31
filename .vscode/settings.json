@@ -11,5 +11,7 @@
         "regex": "cpp",
         "*.tcc": "cpp"
     },
-    "git.ignoreMissingGitWarning": true
+    "git.ignoreMissingGitWarning": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active"
 }
